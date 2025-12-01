@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "id": "A5qNeemQ2D5uKERtwnN6B",
+      "name": "Mansi Singh",
+      "email": "rajputmansi191@gmail.com",
+      "password": "$2b$10$c7SuW3tKYr/ait9v21F5ouVb7pduNKa6LeHVB3yptYeoMuYvORXi2",
+      "profile": {
+        "name": "Mansi Singh",
+        "gender": "female",
+        "age": 25,
+        "heightCm": 170,
+        "weightKg": 70,
+        "bmi": 24.2,
+        "fitness_age": 25,
+        "updatedAt": "2025-11-17T07:42:38.240Z"
+      },
+      "createdAt": "2025-11-16T07:32:03.200Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "p1",
+      "name": "Whey Protein 1kg",
+      "company": "ProFuel",
+      "type": "supplement",
+      "price": 45,
+      "weight": "1kg",
+      "img": "whey.png"
+    },
+    {
+      "id": "p2",
+      "name": "Yoga Mat Premium",
+      "company": "FlexFit",
+      "type": "equipment",
+      "price": 25,
+      "weight": "2kg",
+      "img": "yoga-mat.png"
+    },
+    {
+      "id": "p3",
+      "name": "Dumbbell Pair 10kg",
+      "company": "IronCore",
+      "type": "equipment",
+      "price": 60,
+      "weight": "20kg",
+      "img": "dumbbells.png"
+    },
+    {
+      "id": "p4",
+      "name": "Running Shoes",
+      "company": "SprintX",
+      "type": "equipment",
+      "price": 80,
+      "weight": "0.8kg",
+      "img": "shoes.png"
+    },
+    {
+      "id": "p5",
+      "name": "Mass Gainer 2kg",
+      "company": "BulkUp",
+      "type": "supplement",
+      "price": 55,
+      "weight": "2kg",
+      "img": "placeholder.png"
+    }
+  ],
+  "activities": [
+    {
+      "id": "8ac4FNbyxx8f5uhYARbsr",
+      "time": "2025-11-16T07:32:03.201Z",
+      "type": "signup",
+      "email": "rajputmansi191@gmail.com",
+      "details": {
+        "name": "Mansi Singh"
+      }
+    },
+    {
+      "id": "DdQk5E64a9pegONEC1W1L",
+      "time": "2025-11-16T07:32:29.658Z",
+      "type": "profile_update",
+      "email": "rajputmansi191@gmail.com",
+      "details": {
+        "bmi": 20.2,
+        "fitness_age": 20
+      }
+    },
+    {
+      "id": "zy5Lq7bllrKT9SS16uZc5",
+      "time": "2025-11-16T07:33:08.621Z",
+      "type": "checkout",
+      "email": "rajputmansi191@gmail.com",
+      "details": {
+        "subtotal": 100,
+        "shipping": 5,
+        "tax": 12,
+        "total": 117,
+        "itemsCount": 2
+      }
+    },
+    {
+      "id": "zEaR0ZRGHvDxWBD_DMNpL",
+      "time": "2025-11-16T09:11:34.708Z",
+      "type": "login",
+      "email": "rajputmansi191@gmail.com",
+      "details": {}
+    },
+    {
+      "id": "ofMFhkDaJS9M3MCNBW4X1",
+      "time": "2025-11-16T18:10:01.882Z",
+      "type": "login",
+      "email": "rajputmansi191@gmail.com",
+      "details": {}
+    },
+    {
+      "id": "EfiOTg9frCUkY0KBzNLCb",
+      "time": "2025-11-16T18:10:21.053Z",
+      "type": "profile_update",
+      "email": "rajputmansi191@gmail.com",
+      "details": {
+        "bmi": 20.2,
+        "fitness_age": 21
+      }
+    },
+    {
+      "id": "JSW4WSTlxs2rUGIi5Z9E1",
+      "time": "2025-11-16T18:11:01.326Z",
+      "type": "checkout",
+      "email": "rajputmansi191@gmail.com",
+      "details": {
+        "subtotal": 70,
+        "shipping": 5,
+        "tax": 8.4,
+        "total": 83.4,
+        "itemsCount": 2
+      }
+    },
+    {
+      "id": "NhZp0dNp-9GwBkv9er9_L",
+      "time": "2025-11-17T03:40:11.405Z",
+      "type": "admin_login",
+      "email": "admin@fitnessmvp.com",
+      "details": {}
+    },
+    {
+      "id": "Mwz6Mj3jmj5CzmR1jerW3",
+      "time": "2025-11-17T03:41:17.664Z",
+      "type": "login",
+      "email": "rajputmansi191@gmail.com",
+      "details": {}
+    },
+    {
+      "id": "a13r06Aaus1ETOejtwXEU",
+      "time": "2025-11-17T03:47:35.176Z",
+      "type": "login",
+      "email": "rajputmansi191@gmail.com",
+      "details": {}
+    },
+    {
+      "id": "b-tmGuMmkzm3CUbyjHw3y",
+      "time": "2025-11-17T06:43:14.346Z",
+      "type": "checkout",
+      "email": "rajputmansi191@gmail.com",
+      "details": {
+        "subtotal": 45,
+        "shipping": 5,
+        "tax": 5.4,
+        "total": 55.4,
+        "itemsCount": 1
+      }
+    },
+    {
+      "id": "vX_26ilwQj8iywNsK1p4d",
+      "time": "2025-11-17T06:43:58.810Z",
+      "type": "login",
+      "email": "rajputmansi191@gmail.com",
+      "details": {}
+    },
+    {
+      "id": "J75P3zEtoBw_-j-IDM2W3",
+      "time": "2025-11-17T06:44:32.293Z",
+      "type": "profile_update",
+      "email": "rajputmansi191@gmail.com",
+      "details": {
+        "bmi": 20.6,
+        "fitness_age": 21
+      }
+    },
+    {
+      "id": "HBKYh7yTJS5MhBduVPgZK",
+      "time": "2025-11-17T06:44:37.436Z",
+      "type": "profile_update",
+      "email": "rajputmansi191@gmail.com",
+      "details": {
+        "bmi": 20.6,
+        "fitness_age": 21
+      }
+    },
+    {
+      "id": "zquaxa06FPyIf7y-u75dg",
+      "time": "2025-11-17T07:19:43.576Z",
+      "type": "admin_login",
+      "email": "admin@fitnessmvp.com",
+      "details": {}
+    },
+    {
+      "id": "NBj80r-TEYX-Tnv7jLExk",
+      "time": "2025-11-17T07:20:19.964Z",
+      "type": "admin_update_user",
+      "email": "admin@fitnessmvp.com",
+      "details": {
+        "id": "A5qNeemQ2D5uKERtwnN6B",
+        "name": "Mansi Singh",
+        "email": "rajputmansi191@gmail.com"
+      }
+    },
+    {
+      "id": "bIEwBCQgf9xObaeoeY6Au",
+      "time": "2025-11-17T07:21:18.222Z",
+      "type": "admin_update_user",
+      "email": "admin@fitnessmvp.com",
+      "details": {
+        "id": "A5qNeemQ2D5uKERtwnN6B",
+        "name": "Mansi Singh",
+        "email": "rajputmansi191@gmail.com"
+      }
+    },
+    {
+      "id": "ZyJ5lhWBCyBqpbcxXPUSn",
+      "time": "2025-11-17T07:22:39.978Z",
+      "type": "login",
+      "email": "rajputmansi191@gmail.com",
+      "details": {}
+    },
+    {
+      "id": "Sxdj7E19uCAwtw-E5moxd",
+      "time": "2025-11-17T07:22:53.445Z",
+      "type": "profile_update",
+      "email": "rajputmansi191@gmail.com",
+      "details": {
+        "bmi": 24.2,
+        "fitness_age": 25
+      }
+    },
+    {
+      "id": "GKHr9qb66Yj2BbDJzp-tp",
+      "time": "2025-11-17T07:23:03.058Z",
+      "type": "profile_update",
+      "email": "rajputmansi191@gmail.com",
+      "details": {
+        "bmi": 23.6,
+        "fitness_age": 21
+      }
+    },
+    {
+      "id": "hhQSSsQDEGI994KWotd56",
+      "time": "2025-11-17T07:33:48.908Z",
+      "type": "login",
+      "email": "rajputmansi191@gmail.com",
+      "details": {}
+    },
+    {
+      "id": "v47B0rNi0lPQvkTrOyrto",
+      "time": "2025-11-17T07:42:27.232Z",
+      "type": "login",
+      "email": "rajputmansi191@gmail.com",
+      "details": {}
+    },
+    {
+      "id": "KTBdfOu_upR-Ue-Jg74yn",
+      "time": "2025-11-17T07:42:35.877Z",
+      "type": "profile_update",
+      "email": "rajputmansi191@gmail.com",
+      "details": {
+        "bmi": 24.2,
+        "fitness_age": 25
+      }
+    },
+    {
+      "id": "7vQv6tIH5rukiEFH0ma83",
+      "time": "2025-11-17T07:42:38.242Z",
+      "type": "profile_update",
+      "email": "rajputmansi191@gmail.com",
+      "details": {
+        "bmi": 24.2,
+        "fitness_age": 25
+      }
+    },
+    {
+      "id": "P9b0agL1h12QheL23YrS8",
+      "time": "2025-11-17T07:43:42.487Z",
+      "type": "admin_login",
+      "email": "admin@fitnessmvp.com",
+      "details": {}
+    },
+    {
+      "id": "Opg-qjrCb03IBSBuWA2eT",
+      "time": "2025-11-17T09:05:30.006Z",
+      "type": "login",
+      "email": "rajputmansi191@gmail.com",
+      "details": {}
+    }
+  ]
+}
